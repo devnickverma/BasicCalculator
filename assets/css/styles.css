@@ -11,7 +11,7 @@ body {
     height: 100vh;
     margin: 0;
     font-family: "Roboto Mono", monospace;
-    background: url('https://static.vecteezy.com/system/resources/previews/021/900/082/original/random-number-gradient-pastel-math-background-vector.jpg') no-repeat;
+    background: url('../images/bg.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
